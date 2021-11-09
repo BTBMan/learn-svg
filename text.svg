@@ -13,5 +13,9 @@
 
   <text x="100" y="200" fill="red">
     <textPath xlink:href="#path">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</textPath>
-  </text> 
+  </text>
+
+  <a xlink:href="https://www.baidu.com/" target="_blank">
+    <text x="100" y="250">link</text>
+  </a>
 </svg>
