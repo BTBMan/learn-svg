@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100 50 L200 50 L150 100 Z" style="fill: transparent; stroke-width: 2; stroke: red;" />
+</svg>
+
+<!-- 
+  M 移动到
+  L 画线到
+  H 水平线到
+  V 垂直线到
+  C 曲线到
+  S 光滑曲线到
+  Q 二次贝尔曲线到
+  T 光滑的二次贝尔曲线到
+  A 椭圆弧
+  Z 关闭路径
+
+  大写为绝对定位 小写为相对定位
+ -->
